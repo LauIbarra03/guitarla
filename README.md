@@ -1,2 +1,2 @@
 # guitarla
-Página web de venta de guitarras
+Código de página web de venta de guitarras
